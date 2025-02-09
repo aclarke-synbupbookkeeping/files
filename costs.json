@@ -1,0 +1,96 @@
+{
+  "medical": {
+    "Medical Equipment and Supplies": [
+      { "item": "Equipment", "cost": 500000 },
+      { "item": "Supplies", "cost": 250000 }
+    ],
+    "Medical Licensing and Insurance": [
+      { "item": "Insurance", "cost": 120000 },
+      { "item": "Licensing Fees", "cost": 30000 }
+    ],
+    "Medical Other": [
+      { "item": "Specialized Software", "cost": 0 }
+    ]
+  },
+  "construction": {
+    "Construction Equipment and Supplies": [
+      { "item": "Equipment", "cost": 150000 },
+      { "item": "Supplies", "cost": 50000 }
+    ],
+    "Construction Licensing and Insurance": [
+      { "item": "Insurance", "cost": 80000 },
+      { "item": "Licensing Fees", "cost": 20000 }
+    ],
+    "Construction Other": [
+      { "item": "Specialized Software", "cost": 10000 }
+    ]
+  },
+  "hospitality": {
+    "Hospitality Equipment and Supplies": [
+      { "item": "Equipment", "cost": 200000 },
+      { "item": "Supplies", "cost": 75000 }
+    ],
+    "Hospitality Licensing and Insurance": [
+      { "item": "Insurance", "cost": 100000 },
+      { "item": "Licensing Fees", "cost": 25000 }
+    ],
+    "Hospitality Other": [
+      { "item": "Specialized Software", "cost": 5000 }
+    ]
+  },
+  "brewery": {
+    "Brewery Equipment and Supplies": [
+      { "item": "Equipment", "cost": 300000 },
+      { "item": "Supplies", "cost": 100000 }
+    ],
+    "Brewery Licensing and Insurance": [
+      { "item": "Insurance", "cost": 150000 },
+      { "item": "Licensing Fees", "cost": 50000 }
+    ],
+    "Brewery Other": [
+      { "item": "Specialized Software", "cost": 25000 }
+    ]
+  },
+  "general": {
+    "Legal and Administrative": [
+      { "item": "Business formation fees", "cost": 500 },
+      { "item": "Registered agent fees", "cost": 100 },
+      { "item": "Business licenses and permits", "cost": 200 },
+      { "item": "Insurance", "cost": 500 }
+    ],
+    "Marketing and Sales": [
+      { "item": "Website development", "cost": 1000 },
+      { "item": "Marketing materials", "cost": 200 },
+      { "item": "Initial advertising", "cost": 500 },
+      { "item": "Public relations", "cost": 300 }
+    ],
+    "Premises and Equipment": [
+      { "item": "Rent/Lease", "cost": 2000 },
+      { "item": "Utilities", "cost": 200 },
+      { "item": "Office equipment", "cost": 1000 },
+      { "item": "Specialized equipment", "cost": 5000 },
+      { "item": "Renovations", "cost": 1000 }
+    ],
+    "Technology and Software": [
+      { "item": "Computers and hardware", "cost": 2000 },
+      { "item": "Software licenses", "cost": 500 },
+      { "item": "Website and domain", "cost": 200 },
+      { "item": "Subscription services", "cost": 100 }
+    ],
+    "Inventory and Supplies": [
+      { "item": "Initial inventory", "cost": 0 },
+      { "item": "Office supplies", "cost": 200 }
+    ],
+    "Human Resources": [
+      { "item": "Recruitment and hiring", "cost": 1000 },
+      { "item": "Salaries and benefits", "cost": 5000 },
+      { "item": "Payroll taxes", "cost": 500 },
+      { "item": "Training", "cost": 200 }
+    ],
+    "Other": [
+      { "item": "Contingency fund", "cost": 1000 },
+      { "item": "Professional fees", "cost": 500 },
+      { "item": "Travel expenses", "cost": 200 }
+    ]
+  }
+}

@@ -1536,7 +1536,7 @@
       { "item": "Payroll taxes", "cost": 500 },
       { "item": "Training", "cost": 200 }
     ],
-    "Other": [
+    "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
       { "item": "Travel expenses", "cost": 200 }

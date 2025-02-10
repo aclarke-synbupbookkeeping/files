@@ -17,10 +17,6 @@
       { "item": "Malpractice Insurance", "cost": 10000 },
       { "item": "General Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -59,7 +55,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 5000 }
     ]
   },
   "medical-specialtyPractitioner": {
@@ -83,10 +81,6 @@
       { "item": "Malpractice Insurance", "cost": 10000 },
       { "item": "General Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -125,7 +119,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 5000 }
     ]
   },
   "medical-chiropractor": {
@@ -147,10 +143,6 @@
       { "item": "Malpractice Insurance", "cost": 5000 },
       { "item": "General Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -189,7 +181,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "medical-acupuncturist": {
@@ -208,10 +202,6 @@
       { "item": "Malpractice Insurance", "cost": 5000 },
       { "item": "General Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -250,7 +240,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "medical-phlebotomist": {
@@ -264,10 +256,6 @@
     "Insurance": [
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Transportation Costs", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -306,7 +294,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Transportation Costs", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "medical-labTestingFacility": {
@@ -324,10 +314,6 @@
       { "item": "Professional Liability Insurance", "cost": 10000 },
       { "item": "General Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Quality Control and Safety", "cost": 5000 },
-      { "item": "Marketing and Advertising", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -366,7 +352,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Quality Control and Safety", "cost": 5000 },
+      { "item": "Marketing and Advertising", "cost": 5000 }
     ]
   },
   "medical-travelNursingAgency": {
@@ -380,10 +368,6 @@
       { "item": "Professional Liability Insurance", "cost": 10000 },
       { "item": "General Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Travel and Housing for Nurses", "cost": 50000 },
-      { "item": "Marketing and Advertising", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -422,7 +406,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Travel and Housing for Nurses", "cost": 50000 },
+      { "item": "Marketing and Advertising", "cost": 10000 }
     ]
   },
   "construction-electricalContractor": {
@@ -447,10 +433,6 @@
       { "item": "General Liability Insurance", "cost": 5000 },
       { "item": "Workers' Compensation Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -489,7 +471,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "construction-plumbingContractor": {
@@ -514,10 +498,6 @@
       { "item": "General Liability Insurance", "cost": 5000 },
       { "item": "Workers' Compensation Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -556,7 +536,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "construction-tileContractor": {
@@ -580,10 +562,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Workers' Compensation Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -622,7 +600,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "construction-concreteContractor": {
@@ -647,10 +627,6 @@
       { "item": "General Liability Insurance", "cost": 5000 },
       { "item": "Workers' Compensation Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -689,7 +665,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "construction-lawnDesign": {
@@ -713,10 +691,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Workers' Compensation Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -755,7 +729,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "construction-glazier": {
@@ -779,10 +755,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Workers' Compensation Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -821,7 +793,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "construction-roofingContractor": {
@@ -846,10 +820,6 @@
       { "item": "General Liability Insurance", "cost": 5000 },
       { "item": "Workers' Compensation Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -888,7 +858,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "hospitality-restaurant-fineDining": {
@@ -913,10 +885,6 @@
       { "item": "General Liability Insurance", "cost": 10000 },
       { "item": "Product Liability Insurance", "cost": 10000 }
     ],
-    "Other": [
-      { "item": "Decor and Ambiance", "cost": 25000 },
-      { "item": "Marketing and Advertising", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -955,7 +923,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Decor and Ambiance", "cost": 25000 },
+      { "item": "Marketing and Advertising", "cost": 10000 }
     ]
   },
   "hospitality-restaurant-fastFood": {
@@ -978,10 +948,6 @@
       { "item": "General Liability Insurance", "cost": 5000 },
       { "item": "Product Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Signage and Branding", "cost": 10000 },
-      { "item": "Marketing and Advertising", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1020,7 +986,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Signage and Branding", "cost": 10000 },
+      { "item": "Marketing and Advertising", "cost": 5000 }
     ]
   },
   "hospitality-restaurant-pizzeria": {
@@ -1042,10 +1010,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Product Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Delivery Vehicles", "cost": 10000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1084,7 +1048,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Delivery Vehicles", "cost": 10000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "hospitality-restaurant-popupKitchen": {
@@ -1099,10 +1065,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Product Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Transportation and Setup", "cost": 5000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1141,7 +1103,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Transportation and Setup", "cost": 5000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "hospitality-caterer": {
@@ -1165,10 +1129,6 @@
       { "item": "General Liability Insurance", "cost": 5000 },
       { "item": "Product Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 5000 },
-      { "item": "Staffing Costs", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1207,7 +1167,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 5000 },
+      { "item": "Staffing Costs", "cost": 10000 }
     ]
   },
   "hospitality-bakery": {
@@ -1231,10 +1193,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Product Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Packaging Materials", "cost": 2000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1273,7 +1231,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Packaging Materials", "cost": 2000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "hospitality-coffeeShoppe": {
@@ -1297,10 +1257,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Product Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Inventory (Coffee Beans, Supplies)", "cost": 5000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1327,7 +1283,8 @@
       { "item": "Subscription services", "cost": 100 }
     ],
     "Inventory and Supplies": [
-      { "item": "Initial inventory", "cost": 0 },
+      { "item": "Initial inventory", "cost": 3500 },
+      { "item": "Inventory (Coffee Beans, Supplies)", "cost": 5000 },
       { "item": "Office supplies", "cost": 200 }
     ],
     "Human Resources": [
@@ -1339,7 +1296,8 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "hospitality-cafe": {
@@ -1363,10 +1321,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Product Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Inventory (Food, Drinks, Supplies)", "cost": 5000 },
-      { "item": "Marketing and Advertising", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1405,7 +1359,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Inventory (Food, Drinks, Supplies)", "cost": 5000 },
+      { "item": "Marketing and Advertising", "cost": 2500 }
     ]
   },
   "hospitality-weddingServices": {
@@ -1420,10 +1376,6 @@
     "Insurance": [
       { "item": "General Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 5000 },
-      { "item": "Staffing Costs", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1462,7 +1414,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 5000 },
+      { "item": "Staffing Costs", "cost": 10000 }
     ]
   },
   "hospitality-weddingPlanner": {
@@ -1475,10 +1429,6 @@
     "Insurance": [
       { "item": "Professional Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 5000 },
-      { "item": "Travel and Networking Expenses", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1517,23 +1467,61 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 5000 },
+      { "item": "Travel and Networking Expenses", "cost": 5000 }
     ]
   },
   "hospitality-eventPlanning": {
     "Equipment": [
       { "item": "Event Supplies", "cost": 10000 },
+      { "item": "Specialized equipment", "cost": 5000 },
       { "item": "Audio-Visual Equipment", "cost": 5000 }
-    ],
-    "Technology": [
-      { "item": "Event Management Software", "cost": 5000 }
     ],
     "Insurance": [
       { "item": "General Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
+    "Legal and Administrative": [
+      { "item": "Business formation fees", "cost": 500 },
+      { "item": "Registered agent fees", "cost": 100 },
+      { "item": "Business licenses and permits", "cost": 200 },
+      { "item": "Insurance", "cost": 500 }
+    ],
+    "Marketing and Sales": [
+      { "item": "Website development", "cost": 1000 },
+      { "item": "Marketing materials", "cost": 200 },
+      { "item": "Initial advertising", "cost": 500 },
+      { "item": "Public relations", "cost": 300 }
+    ],
+    "Premises and Equipment": [
+      { "item": "Rent/Lease", "cost": 2000 },
+      { "item": "Utilities", "cost": 200 },
+      { "item": "Office equipment", "cost": 1000 },
+      { "item": "Renovations", "cost": 1000 }
+    ],
+    "Technology and Software": [
+      { "item": "Event Management Software", "cost": 5000 },
+      { "item": "Computers and hardware", "cost": 2000 },
+      { "item": "Software licenses", "cost": 500 },
+      { "item": "Website and domain", "cost": 200 },
+      { "item": "Subscription services", "cost": 100 }
+    ],
+    "Inventory and Supplies": [
+      { "item": "Initial inventory", "cost": 0 },
+      { "item": "Office supplies", "cost": 200 }
+    ],
+    "Human Resources": [
+      { "item": "Recruitment and hiring", "cost": 1000 },
+      { "item": "Salaries and benefits", "cost": 5000 },
+      { "item": "Payroll taxes", "cost": 500 },
+      { "item": "Training", "cost": 200 }
+    ],
+    "Misc": [
+      { "item": "Contingency fund", "cost": 1000 },
+      { "item": "Professional fees", "cost": 500 },
+      { "item": "Travel expenses", "cost": 200 },
       { "item": "Marketing and Advertising", "cost": 5000 },
-      { "item": "Networking and Partnerships", "cost": 5000 }
+      { "item": "Travel and Networking Expenses", "cost": 5000 }
     ]
   },
   "hospitality-eventsCoordinator": {
@@ -1546,10 +1534,6 @@
     "Insurance": [
       { "item": "Professional Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 5000 },
-      { "item": "Travel and Networking Expenses", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1588,7 +1572,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 5000 },
+      { "item": "Travel and Networking Expenses", "cost": 5000 }
     ]
   },
   "retail-mensClothier": {
@@ -1613,10 +1599,6 @@
       { "item": "Security Cameras", "cost": 2500 },
       { "item": "Alarm System", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1655,7 +1637,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "retail-womensClothier": {
@@ -1680,10 +1664,6 @@
       { "item": "Security Cameras", "cost": 2500 },
       { "item": "Alarm System", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1722,7 +1702,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "retail-haberdashery": {
@@ -1747,10 +1729,6 @@
       { "item": "Security Cameras", "cost": 1000 },
       { "item": "Alarm System", "cost": 1000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1789,7 +1767,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "retail-childrensClothier": {
@@ -1814,10 +1794,6 @@
       { "item": "Security Cameras", "cost": 2500 },
       { "item": "Alarm System", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1856,7 +1832,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "retail-electronics": {
@@ -1881,10 +1859,6 @@
       { "item": "Security Cameras", "cost": 2500 },
       { "item": "Alarm System", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1923,7 +1897,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "retail-shoeStore": {
@@ -1948,10 +1924,6 @@
       { "item": "Security Cameras", "cost": 2500 },
       { "item": "Alarm System", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -1990,7 +1962,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "retail-runningShoeStore": {
@@ -2015,10 +1989,6 @@
       { "item": "Security Cameras", "cost": 2500 },
       { "item": "Alarm System", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2057,7 +2027,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "technology-softwareDesign": {
@@ -2081,10 +2053,6 @@
       { "item": "Patents and Trademarks", "cost": 10000 },
       { "item": "Legal Fees", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Office Supplies", "cost": 1000 },
-      { "item": "Insurance", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2123,7 +2091,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Office Supplies", "cost": 1000 },
+      { "item": "Insurance", "cost": 5000 }
     ]
   },
   "technology-businessAnalysis": {
@@ -2147,10 +2117,6 @@
       { "item": "Website and Online Presence", "cost": 5000 },
       { "item": "Networking and Events", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Professional Development", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2189,7 +2155,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Professional Development", "cost": 2500 }
     ]
   },
   "technology-qualityAssuranceServices": {
@@ -2208,10 +2176,6 @@
       { "item": "Rent or Lease", "cost": 10000 },
       { "item": "Utilities and Maintenance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Consultants and Outsourcing", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2250,7 +2214,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Consultants and Outsourcing", "cost": 10000 }
     ]
   },
   "technology-testingServices": {
@@ -2269,10 +2235,6 @@
       { "item": "Rent or Lease", "cost": 10000 },
       { "item": "Utilities and Maintenance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Consultants and Outsourcing", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2311,7 +2273,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Consultants and Outsourcing", "cost": 10000 }
     ]
   },
   "technology-generalConsulting": {
@@ -2331,10 +2295,6 @@
       { "item": "Website and Online Presence", "cost": 5000 },
       { "item": "Networking and Events", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Professional Development", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2373,7 +2333,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Professional Development", "cost": 2500 }
     ]
   },
   "technology-security": {
@@ -2389,10 +2351,6 @@
       { "item": "Security Consultants and Engineers", "cost": 100000 },
       { "item": "Training and Certification", "cost": 10000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Background Checks and Security Clearances", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2431,7 +2389,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Background Checks and Security Clearances", "cost": 5000 }
     ]
   },
   "technology-cyberSecurity": {
@@ -2447,10 +2407,6 @@
       { "item": "Cybersecurity Analysts and Engineers", "cost": 100000 },
       { "item": "Training and Certification", "cost": 10000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Penetration Testing and Vulnerability Assessments", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2489,7 +2445,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Penetration Testing and Vulnerability Assessments", "cost": 10000 }
     ]
   },
   "education-daycareCenter": {
@@ -2514,10 +2472,6 @@
       { "item": "Daycare License", "cost": 1000 },
       { "item": "Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Food and Snacks", "cost": 2000 },
-      { "item": "Administrative Costs", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2556,7 +2510,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Food and Snacks", "cost": 2000 },
+      { "item": "Administrative Costs", "cost": 1000 }
     ]
   },
   "education-privatePreSchool": {
@@ -2581,10 +2537,6 @@
       { "item": "Preschool License", "cost": 2000 },
       { "item": "Liability Insurance", "cost": 7500 }
     ],
-    "Other": [
-      { "item": "Curriculum Development", "cost": 5000 },
-      { "item": "Administrative Costs", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2623,7 +2575,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Curriculum Development", "cost": 5000 },
+      { "item": "Administrative Costs", "cost": 2500 }
     ]
   },
   "education-privateElementarySchool": {
@@ -2648,10 +2602,6 @@
       { "item": "Advertising and Promotion", "cost": 10000 },
       { "item": "Events and Open Houses", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 10000 },
-      { "item": "Extracurricular Activities", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2690,7 +2640,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 10000 },
+      { "item": "Extracurricular Activities", "cost": 5000 }
     ]
   },
   "education-privateJuniorHighSchool": {
@@ -2715,10 +2667,6 @@
       { "item": "Advertising and Promotion", "cost": 15000 },
       { "item": "Events and Open Houses", "cost": 7500 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 15000 },
-      { "item": "Extracurricular Activities", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2757,7 +2705,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 15000 },
+      { "item": "Extracurricular Activities", "cost": 10000 }
     ]
   },
   "education-privateHighSchool": {
@@ -2782,10 +2732,6 @@
       { "item": "Advertising and Promotion", "cost": 20000 },
       { "item": "Events and Open Houses", "cost": 10000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 20000 },
-      { "item": "Extracurricular Activities and Sports", "cost": 25000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2824,7 +2770,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 20000 },
+      { "item": "Extracurricular Activities and Sports", "cost": 25000 }
     ]
   },
   "privateNursingFacility": {
@@ -2849,10 +2797,6 @@
       { "item": "Nursing Home License", "cost": 5000 },
       { "item": "Liability Insurance", "cost": 25000 }
     ],
-    "Other": [
-      { "item": "Food and Dietary Supplies", "cost": 20000 },
-      { "item": "Administrative Costs", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2891,7 +2835,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Food and Dietary Supplies", "cost": 20000 },
+      { "item": "Administrative Costs", "cost": 10000 }
     ]
   },
   "geriatricCareFacility": {
@@ -2916,10 +2862,6 @@
       { "item": "Geriatric Care License", "cost": 4000 },
       { "item": "Liability Insurance", "cost": 20000 }
     ],
-    "Other": [
-      { "item": "Food and Dietary Supplies", "cost": 15000 },
-      { "item": "Administrative Costs", "cost": 7500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -2958,7 +2900,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Food and Dietary Supplies", "cost": 15000 },
+      { "item": "Administrative Costs", "cost": 7500 }
     ]
   },
   "assistedLivingFacility": {
@@ -2984,10 +2928,6 @@
       { "item": "Assisted Living Facility License", "cost": 5000 },
       { "item": "Liability Insurance", "cost": 25000 }
     ],
-    "Other": [
-      { "item": "Food and Dietary Services", "cost": 20000 },
-      { "item": "Transportation Services", "cost": 10000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3026,7 +2966,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Food and Dietary Services", "cost": 20000 },
+      { "item": "Transportation Services", "cost": 10000 }
     ]
   },
   "mentalHealthServicesFacility": {
@@ -3055,10 +2997,6 @@
       { "item": "Malpractice Insurance", "cost": 10000 },
       { "item": "General Liability Insurance", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 5000 },
-      { "item": "Technology and Software", "cost": 5000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3097,7 +3035,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 5000 },
+      { "item": "Technology and Software", "cost": 5000 }
     ]
   },
   "professionalServices-attorneysOffice": {
@@ -3114,10 +3054,6 @@
       { "item": "Website and Online Presence", "cost": 5000 },
       { "item": "Print and Digital Marketing", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Library and Research Subscriptions", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3156,7 +3092,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Library and Research Subscriptions", "cost": 2500 }
     ]
   },
   "professionalServices-engineeringBusiness": {
@@ -3173,10 +3111,6 @@
       { "item": "Website and Online Presence", "cost": 5000 },
       { "item": "Industry Conferences and Events", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Professional Licenses and Certifications", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3215,7 +3149,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Professional Licenses and Certifications", "cost": 2500 }
     ]
   },
   "professionalServices-architectsOffice": {
@@ -3232,10 +3168,6 @@
       { "item": "Website and Online Presence", "cost": 5000 },
       { "item": "Industry Conferences and Events", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Professional Licenses and Certifications", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3274,7 +3206,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Professional Licenses and Certifications", "cost": 2500 }
     ]
   },
   "professionalServices-travelAgentsOffice": {
@@ -3291,10 +3225,6 @@
       { "item": "Website and Online Presence", "cost": 5000 },
       { "item": "Print and Digital Advertising", "cost": 5000 }
     ],
-    "Other": [
-      { "item": "Insurance", "cost": 5000 },
-      { "item": "Travel Industry Certifications", "cost": 2500 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3333,7 +3263,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Insurance", "cost": 5000 },
+      { "item": "Travel Industry Certifications", "cost": 2500 }
     ]
   },
   "personalServices-beautySalon": {
@@ -3362,10 +3294,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Product Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3404,7 +3332,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-hairStylists": {
@@ -3433,10 +3363,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3475,7 +3401,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-barbershops": {
@@ -3503,10 +3431,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3545,7 +3469,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-nailSalons": {
@@ -3566,10 +3492,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3608,7 +3530,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-tanningBedSalons": {
@@ -3629,10 +3553,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Product Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3671,7 +3591,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-eyebrowThreading": {
@@ -3691,9 +3613,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3732,7 +3651,8 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-hairLaserTreatment": {
@@ -3753,9 +3673,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3794,7 +3711,8 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-massageTherapists": {
@@ -3815,10 +3733,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
-      { "item": "Marketing and Advertising", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3857,7 +3771,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Laundry and Cleaning Supplies", "cost": 500 },
+      { "item": "Marketing and Advertising", "cost": 1000 }
     ]
   },
   "personalServices-personalTrainer": {
@@ -3876,10 +3792,6 @@
       { "item": "General Liability Insurance", "cost": 2500 },
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 2500 },
-      { "item": "Business Expenses", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3918,7 +3830,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 2500 },
+      { "item": "Business Expenses", "cost": 1000 }
     ]
   },
   "personalServices-nutritionist": {
@@ -3935,10 +3849,6 @@
     "Insurance": [
       { "item": "Professional Liability Insurance", "cost": 2500 }
     ],
-    "Other": [
-      { "item": "Marketing and Advertising", "cost": 2500 },
-      { "item": "Business Expenses", "cost": 1000 }
-    ],
     "Legal and Administrative": [
       { "item": "Business formation fees", "cost": 500 },
       { "item": "Registered agent fees", "cost": 100 },
@@ -3977,7 +3887,9 @@
     "Misc": [
       { "item": "Contingency fund", "cost": 1000 },
       { "item": "Professional fees", "cost": 500 },
-      { "item": "Travel expenses", "cost": 200 }
+      { "item": "Travel expenses", "cost": 200 },
+      { "item": "Marketing and Advertising", "cost": 2500 },
+      { "item": "Business Expenses", "cost": 1000 }
     ]
   }
 }

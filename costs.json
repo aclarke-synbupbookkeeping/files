@@ -1,7 +1,8 @@
 {
   "manufacturing-WithDistributionCenter": {
   "Raw Materials": [
-    { "item": "Metals, Plastics, etc.", "cost": 65000 },
+    { "item": "Metals and Alloys", "cost": 65000 },
+    { "item": "Composites", "cost": 45000 },
     { "item": "Components and Parts", "cost": 30000 }
   ],
   "Manufacturing Equipment": [
@@ -83,7 +84,8 @@
 },
 "manufacturing-WithoutDistributionCenter": {
   "Raw Materials": [
-    { "item": "Metals, Plastics, etc.", "cost": 55000 },
+    { "item": "Metals and Alloys", "cost": 65000 },
+    { "item": "Composites", "cost": 45000 },
     { "item": "Components and Parts", "cost": 25000 }
   ],
   "Manufacturing Equipment": [

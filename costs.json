@@ -1,4 +1,69 @@
 {
+  "": {
+  "Labor": [
+    { "item": "Workers", "cost": 0 },
+    { "item": "Managers", "cost": 0 }
+  ],
+  "Utilities": [
+    { "item": "Electricity", "cost": 0 },
+    { "item": "Water and Sewage", "cost": 0 },
+    { "item": "Gas", "cost": 0 }
+  ],
+  "Rent and Facilities": [
+    { "item": "Rent", "cost": 0 },
+    { "item": "Building Maintenance", "cost": 0 }
+  ],
+  "Insurance": [
+    { "item": "Product Liability Insurance", "cost": 0 },
+    { "item": "General Liability Insurance", "cost": 0 }
+  ],
+  "Legal and Administrative": [
+    { "item": "Business formation fees", "cost": 0 },
+    { "item": "Registered agent fees", "cost": 0 },
+    { "item": "Business licenses and permits", "cost": 0 },
+    { "item": "Insurance", "cost": 0 }
+  ],
+  "Marketing and Sales": [
+    { "item": "Website development", "cost": 0 },
+    { "item": "Marketing materials", "cost": 0 },
+    { "item": "Initial advertising", "cost": 0 },
+    { "item": "Public relations", "cost": 0 },
+    { "item": "Initial Marketing Campaign", "cost": 0 },
+    { "item": "Website and Online Presence", "cost": 0 }
+  ],
+  "Premises and Equipment": [
+    { "item": "Rent/Lease", "cost": 0 },
+    { "item": "Utilities", "cost": 0 },
+    { "item": "Office equipment", "cost": 0 },
+    { "item": "Specialized equipment", "cost": 0 },
+    { "item": "Renovations", "cost": 0 }
+  ],
+  "Technology and Software": [
+    { "item": "Computers and hardware", "cost": 0 },
+    { "item": "Software licenses", "cost": 0 },
+    { "item": "Website and domain", "cost": 0 },
+    { "item": "Subscription services", "cost": 0 },
+    { "item": "Manufacturing Software", "cost": 0 },
+    { "item": "Inventory Management System", "cost": 0 }
+  ],
+  "Inventory and Supplies": [
+    { "item": "Initial inventory", "cost": 0 },
+    { "item": "Office supplies", "cost": 0 }
+  ],
+  "Human Resources": [
+    { "item": "Recruitment and hiring", "cost": 0 },
+    { "item": "Salaries and benefits", "cost": 0 },
+    { "item": "Payroll taxes", "cost": 0 },
+    { "item": "Training", "cost": 0 }
+  ],
+  "Misc": [
+    { "item": "Contingency fund", "cost": 0 },
+    { "item": "Professional fees", "cost": 0 },
+    { "item": "Travel expenses", "cost": 0 },
+    { "item": "Office Supplies", "cost": 0 },
+    { "item": "Security", "cost": 0 }
+  ]
+},
   "manufacturing-WithDistributionCenter": {
   "Raw Materials": [
     { "item": "Metals and Alloys", "cost": 65000 },

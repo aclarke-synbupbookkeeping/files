@@ -1,0 +1,125 @@
+<div class="div-calculator-outer">
+    <div class="div-header-label-info-graphic">
+        <h1 class="h1-white-header">Startup Costs Estimator</h1>
+    </div>
+
+    <section class="div-calculator-industry-selector" id="industry-specific-costs">
+        <h2>Select your industry:</h2>
+        <select onchange="updateIndustryTable()" id="industry-select">
+            <option value="">&lt;-- Select an Industry --&gt;</option>
+            <optgroup label="Other">
+                <option value="other-IndustryNotListed">Industry Not Specified</option>
+            </optgroup>
+            <optgroup label="Construction">
+                <option value="construction-concreteContractor">Concrete Contractor</option>
+                <option value="construction-electricalContractor">Electrical Contractor</option>
+                <option value="construction-glazier">Glazier</option>
+                <option value="construction-lawnDesign">Lawn Design</option>
+                <option value="construction-plumbingContractor">Plumbing Contractor</option>
+                <option value="construction-poolDesigner">Pool Designer</option>
+                <option value="construction-poolInstaller">Pool Installer</option>
+                <option value="construction-roofingContractor">Roofing Contractor</option>
+                <option value="construction-tileContractor">Tile Contractor</option>
+            </optgroup>
+            <optgroup label="Education">
+                <option value="education-daycareCenter">Daycare Center</option>
+                <option value="education-privateElementarySchool">Private Elementary School</option>
+                <option value="education-privateHighSchool">Private High School</option>
+                <option value="education-privateJuniorHighSchool">Private Junior High School</option>
+                <option value="education-privatePreSchool">Private Pre-School</option>
+            </optgroup>
+            <optgroup label="Healthcare">
+                <option value="assistedLivingFacility">Assisted Living Facility</option>
+                <option value="geriatricCareFacility">Geriatric Care Facility</option>
+                <option value="medical-acupuncturist">Acupuncturist</option>
+                <option value="medical-chiropractor">Chiropractor</option>
+                <option value="medical-generalMp">General MP</option>
+                <option value="medical-labTestingFacility">Lab Testing Facility</option>
+                <option value="medical-phlebotomist">Phlebotomist</option>
+                <option value="medical-specialtyPractitioner">Specialty Practitioner</option>
+                <option value="medical-travelNursingAgency">Travel Nursing Agency</option>
+                <option value="mentalHealthServicesFacility">Mental Health Services Facility</option>
+                <option value="privateNursingFacility">Private Nursing Facility</option>
+            </optgroup>
+            <optgroup label="Hospitality">
+                <option value="hospitality-bakery">Bakery</option>
+                <option value="hospitality-cafe">Cafe</option>
+                <option value="hospitality-caterer">Caterer</option>
+                <option value="hospitality-coffeeShoppe">Coffee Shoppe</option>
+                <option value="hospitality-eventPlanning">Event Planning</option>
+                <option value="hospitality-eventsCoordinator">Events Coordinator</option>
+                <option value="hospitality-restaurant-fastFood">Fast Food</option>
+                <option value="hospitality-restaurant-fineDining">Fine Dining</option>
+                <option value="hospitality-restaurant-pizzeria">Pizzeria</option>
+                <option value="hospitality-restaurant-popupKitchen">Popup Kitchen</option>
+                <option value="hospitality-weddingPlanner">Wedding Planner</option>
+                <option value="hospitality-weddingServices">Wedding Services</option>
+            </optgroup>
+            <optgroup label="Manufacturing-">
+                <option value="manufacturing-WithDistributionCenter">Manufacturing with Distribution Center</option>
+                <option value="manufacturing-WithoutDistributionCenter">Manufacturing without Distribution Center</option>
+            </optgroup>
+            <optgroup label="Personal Services">
+                <option value="personalServices-barbershops">Barbershop</option>
+                <option value="personalServices-beautySalon">Beauty Salon</option>
+                <option value="personalServices-eyebrowThreading">Eyebrow Threading</option>
+                <option value="personalServices-hairLaserTreatment">Hair Laser Treatment</option>
+                <option value="personalServices-hairStylists">Hair Stylist</option>
+                <option value="personalServices-massageTherapists">Massage Therapist</option>
+                <option value="personalServices-nailSalons">Nail Salon</option>
+                <option value="personalServices-nutritionist">Nutritionist</option>
+                <option value="personalServices-personalTrainer">Personal Trainer</option>
+                <option value="personalServices-tanningBedSalons">Tanning Bed Salon</option>
+            </optgroup>
+            <optgroup label="Professional Services">
+                <option value="professionalServices-architectsOffice">Architect</option>
+                <option value="professionalServices-attorneysOffice">Attorney</option>
+                <option value="professionalServices-engineeringBusiness">Engineer</option>
+                <option value="professionalServices-travelAgentsOffice">Travel Agent</option>
+            </optgroup>
+            <optgroup label="Retail">
+                <option value="retail-childrensClothier">Children's Clothier</option>
+                <option value="retail-electronics">Electronics</option>
+                <option value="retail-haberdashery">Haberdashery</option>
+                <option value="retail-mensClothier">Men's Clothier</option>
+                <option value="retail-runningShoeStore">Running Shoe Store</option>
+                <option value="retail-shoeStore">Shoe Store</option>
+                <option value="retail-womensClothier">Women's Clothier</option>
+            </optgroup>
+            <optgroup label="Services">
+                <option value="services-carpetCleaning">Carpet Cleaning</option>
+                <option value="services-chimneyCleaning">Chimney Cleaning</option>
+                <option value="services-ductCleaning">Duct Cleaning</option>
+                <option value="services-gutterCleaning">Gutter Cleaning</option>
+                <option value="services-janitorialServices">Janitorial Services</option>
+                <option value="services-landscaping">Landscaping</option>
+                <option value="services-lawnCare">Lawn Care</option>
+                <option value="services-pestControl">Pest Control</option>
+                <option value="services-poolMaintenance">Pool Maintenance</option>
+                <option value="services-windowCleaning">Window Cleaning</option>
+            </optgroup>
+            <optgroup label="Technology">
+                <option value="technology-businessAnalysis">Business Analysis</option>
+                <option value="technology-cyberSecurity">Cyber-Security</option>
+                <option value="technology-generalConsulting">General Consulting</option>
+                <option value="technology-qualityAssuranceServices">Quality Assurance Services</option>
+                <option value="technology-security">Security</option>
+                <option value="technology-softwareDesign">Software Design</option>
+                <option value="technology-testingServices">Testing Services</option>
+            </optgroup>
+        </select>
+    </section>
+
+    <section id="header-industry-costs">
+        <button class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" aria-label="Reset all input values to zero" onclick="resetValuesToZero()">Reset</button>
+    </section>
+
+    <section id="industry-specific-information">
+        <div id="industry-specific-table"></div>
+    </section>
+    
+    <div id="grand-totals">
+        <h3>Grand Total: <span id="grand-total-value">0</span></h3>
+    </div>
+
+</div>

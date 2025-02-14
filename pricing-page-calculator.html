@@ -1,0 +1,146 @@
+<div class="div-build-a-plan-pricing">
+<div class="div-header-label-info-graphic">
+<h3 style="color: white;">
+Pricing Estimator Tool
+</h3>
+</div>
+
+<div style="padding: 20px;">
+<table class="table-pricing">
+
+  <tr>
+    <th class="table-pricing-header" colspan="2">Billing Cycle</th>
+  </tr>
+
+  <tr>
+    <td class="table-pricing-header" colspan="2">
+    <input type="radio" id="billing_frequency_annual" name="frequency" value="Annual" onclick="showPricing()" checked>
+    <label for="billing_frequency_annual">Annual</label>
+
+    <input type="radio" id="billing_frequency_monthly" name="frequency" value="Monthly" onclick="showPricing()">
+    <label for="billing_frequency_monthly">Monthly</label>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="table-pricing-header" colspan="2">
+    <h3 id="plan_price" style="color: #000fff; margin: 0px; padding: 0px;">
+    <b>$0.00*</b>
+    </h3>
+    <p id="plan_price_description" style="font-size: 14px; margin: 0px; padding: 0px;">Per month (Billed Annually)
+    </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="table-pricing-header" colspan="2">
+    <p id="plan_price_discount_description" style="font-size: 16px; margin: 0px; padding: 0px; font-weight:bold;">Savings When Paid Annually
+    </p>
+    <h3 id="plan_price_discount" style="color: #000fff; margin: 0px; padding: 0px;">
+    <b>$0.00!</b>
+    </h3>
+    </td>
+  </tr>
+  
+  <tr>
+    <th class="table-pricing-header" style="width: 80%;">Included Services</th>
+    <th class="table-pricing-header" style="width: 20%;">Included</th>
+  </tr>
+
+  <tr>
+    <td id="subscription_type_header" class="table-pricing-cell">Professional Bookkeeper
+    </td>
+    <td class="table-pricing-cell" style="text-align: center;"><span>&#10003;</span>
+    </td>
+  </tr>
+  
+  <tr>
+    <th class="table-pricing-header" style="width: 80%;">Optional Services</th>
+    <th class="table-pricing-header" style="width: 20%;">Add</th>
+  </tr>
+
+  <tr>
+    <td class="table-pricing-cell">Quickbooks Online
+    </td>
+    <td class="table-pricing-cell" style="text-align: center;">
+    <label class="switch">
+    <input id="select_qbo_subscription" type="checkbox" onclick="showPricing()">
+    <span id="qbo_subscription" class="slider round"></span>
+    </label>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="table-pricing-cell">Payroll Service
+    </td>
+    <td class="table-pricing-cell" style="text-align: center;">
+    <label class="switch">
+    <input id="select_payroll" type="checkbox" onclick="showPricing()">
+    <span id="payroll" class="slider round"></span>
+    </label>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="table-pricing-cell"># of Employees
+    </td>
+    <td class="table-pricing-cell" style="text-align: center;">
+        <select name="num_emp" id="number_of_employees" onchange="showPricing()" disabled>
+            <option value=0 selected>0</option>
+            <option value=1>1</option>
+            <option value=2>2</option>
+            <option value=3>3</option>
+            <option value=4>4</option>
+            <option value=5>5</option>
+            <option value=10>10</option>
+            <option value=15>15</option>
+            <option value=20>20</option>
+            <option value=25>25</option>
+        </select>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="table-pricing-cell">Bill Pay Service
+    </td>
+    <td class="table-pricing-cell" style="text-align: center;">
+    <label class="switch">
+    <input id="select_bill_pay" type="checkbox" onclick="showPricing()">
+    <span id="billpay" class="slider round"></span>
+    </label>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="table-pricing-cell"># of Bill Pay Items
+    </td>
+    <td class="table-pricing-cell" style="text-align: center;">
+        <select name="num_bill_pay_items" id="number_of_bill_pay_items" onchange="showPricing()" disabled>
+            <option value=0 selected>0</option>
+            <option value=1>1</option>
+            <option value=2>2</option>
+            <option value=3>3</option>
+            <option value=4>4</option>
+            <option value=5>5</option>
+            <option value=10>10</option>
+            <option value=15>15</option>
+            <option value=20>20</option>
+            <option value=25>25</option>
+        </select>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="table-pricing-header" colspan="2">
+    <p id="plan_price_description_additional_fees" style="font-size: 12px; margin: 0px; padding: 0px;">
+    Additional monthly fees may apply.
+    <br>
+    See chart below.
+    </p>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+</div>

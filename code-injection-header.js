@@ -1,3 +1,47 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Sync-Up Bookkeeping",
+  "image": "https://images.squarespace-cdn.com/content/v1/66638aa0dcac9f7f9728dd43/cc9e40b8-5430-488d-9ad6-d69ca5a44dec/Logo+Rounded+Edges+622x754.png?format=1500w",
+  "@id": "https://images.squarespace-cdn.com/content/v1/66638aa0dcac9f7f9728dd43/cc9e40b8-5430-488d-9ad6-d69ca5a44dec/Logo+Rounded+Edges+622x754.png?format=1500w",
+  "url": "https://www.syncupbookkeeping.com/",
+  "telephone": "6192088818",
+  "priceRange": "$365/month",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "113 W G ST",
+    "addressLocality": "San Diego",
+    "addressRegion": "CA",
+    "postalCode": "92101",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.7123604,
+    "longitude": -117.1644728
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "16:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/61565534363316",
+    "https://www.instagram.com/syncupbookkeeping",
+    "https://www.linkedin.com/company/syncupbookkeeping",
+    "https://www.syncupbookkeeping.com/"
+  ] 
+}
+</script>
+
 <script
   type="text/javascript"
   src="https://app.termly.io/resource-blocker/d56adafa-a07b-44ad-ac0d-e1e5e49b32c6?autoBlock=on">

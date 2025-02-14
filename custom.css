@@ -533,7 +533,8 @@ iframe {
   .table-ebooks-cell {
    	border: 0px solid;
  	color: #000000;
-   	text-align: right;
+   	text-align: left;
+    font-size: 1rem;
   }
   
   .div-helping-outer

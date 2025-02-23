@@ -1,5 +1,190 @@
+.top-button-hyperlink {
+    text-align: center;
+    text-decoration: underline;
+    color: #000fff;
+}
+
+.top-button-wrapper {
+    margin: .2rem 0;
+}
+
 .services-hyperlink {
   	color: #0000ff;
   	text-align: center;
     text-decoration: underline;
   }
+
+.table-footer {
+    width: 50%;
+   	margin-right: auto;  
+	margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 100%;
+   	text-align: center;
+    position: relative;
+    font-size: 10px;
+    color: #0000ff;
+}
+
+.outer-panel {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  border-radius: 0.9375rem;
+  border: 1px solid;
+  padding: 0;
+  box-shadow: 0.3125rem 0.625rem 0.5rem 0.625rem #888888;
+  overflow: auto;
+  min-width: 4.6875rem;
+  max-width: 93.75rem;
+  width: auto;
+  min-height: 46.875rem;
+  max-height: 375rem;
+}
+
+.inner-panel {
+  margin: auto;
+  padding: 0.3125rem;
+  text-align: center;
+  height: auto;
+  max-height: 6.875rem;
+  background-color: #0000ff;
+  color: white;
+  width: auto;
+}
+
+.page-header {
+  color: white;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.service-name-header {
+  color: white;
+  text-align: center;
+  padding: 0;
+  margin:0;
+}
+
+.service-menu-wrapper {
+  padding: 0;
+  margin: 0;
+}
+
+.button-wrapper {
+  padding: .5rem 0 .5rem;
+  margin: 0;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-inline {
+  width: auto;
+  height: auto; /* Maintain aspect ratio */
+  max-width: 95%;
+  max-height: 80rem;
+  display: block; /* Key: Makes the image a block element */
+  margin: 1rem auto; /* Key: Centers the image horizontally */
+}
+
+.table-wrapper {
+  padding: 0 1.875rem;
+  margin: 0;
+}
+
+.section-button {
+  /* Default button styles */
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 0.625rem 1.25rem;
+  border: none;
+  cursor: pointer;
+  margin: 1rem 1.25rem;
+}
+
+[id^="table-service"] {
+  /* Target the entire table */
+  font-size: 1rem;
+  border-collapse: collapse;
+}
+
+[id^="table-service"] th {
+  /* Target table header elements */
+  font-size: 1.4rem;
+  text-align: center;
+  padding-top: 1.25rem;
+  font-weight: 500!important; /* Consider removing!important */
+}
+
+[id^="table-service"] td {
+  /* Target table cell elements */
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 0;
+}
+
+#service-menu {
+  background-color: #000fff;
+  border-radius: 1.9375rem;
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  position: relative; /* Change position to relative */
+  top: 0; /* Adjust the top value as needed */
+}
+
+#menu-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#menu-items li {
+  margin: 0 0.5rem;
+}
+
+#menu-items a {
+  text-decoration: none;
+  color: white;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+#internal-page-links a {
+  text-decoration: none;
+  color: white;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  padding: 0 .2rem;
+}
+
+#menu-items a.active {
+  font-weight: bold;
+  color: #0000ff;
+}
+
+#menu-toggle {
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  display: none;
+}
+
+#menu-items.show {
+  display: flex;
+}
